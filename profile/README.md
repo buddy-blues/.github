@@ -1,4 +1,4 @@
-# Hi there, welcome to Buddy Blues 👋
+# Hi there, welcome to BuddyBlues 👋
 
 ## 👥 Team Members
 | Name                               | University                                          | LinkedIn                                                                                                     |
