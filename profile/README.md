@@ -2,6 +2,16 @@
 
 <img align="center" src="https://i.ibb.co/Mgv99V8/banner-buddy-blues.png" alt="buddyblues-cover" border="0" width="100%">
 
+## 📌 Problem Background
+New moms often face significant challenges after giving birth, especially related to the emotional condition known as baby blues. Factors like uncertainty, hormonal changes, and physical fatigue can negatively impact their mental well-being. Baby blues only occurs 14 days after giving birth. Mothers who experience symptoms of baby blues need to receive immediate treatment. Because if the symptoms exceed 14 days, it is feared that it will lead to Postpartum Depression. Postpartum depression is a continuation of baby blues, or what is also called postpartum distress syndrome, which is a condition with more serious disorders. Mothers who experience postpartum depression generally experience symptoms of clinical depression. These symptoms make mothers with postpartum depression feel low in self-esteem, unable to be good mothers, and some avoid their babies. Therefore, early treatment is very necessary. Unfortunately, unequal access to information and support can exacerbate the situation, particularly for those from underserved communities. 
+
+## 🚀 Solution
+BuddyBlues is a comprehensive solution to address these challenges. The app can give motivation based on current mood, personalized to-do lists, and a platform for sharing stories to create a supportive community. Through innovative features like chatbot counseling and direct sessions with professional psychologists, BuddyBlues ensures accessible mental health support. The app also includes engaging modules for learning baby care essentials and a curated selection of articles to keep parents informed and inspired. With a commitment to inclusivity, BuddyBlues strives to minimize inequalities in accessing valuable resources, fostering a connected and empowered parenting experience for all.
+
+## 👨🏻‍💻 Resources
+Our project repository
+1. [BuddyBlues App](https://github.com/buddy-blues/Frontend-User)
+
 ## 👥 Team Members
 | Name                               | University                                          | GitHub                                                                                                | LinkedIn                                                                                                     |
 |------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
