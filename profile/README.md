@@ -8,9 +8,12 @@ New moms often face significant challenges after giving birth, especially relate
 ## 🚀 Solution
 BuddyBlues is a comprehensive solution to address these challenges. The app can give motivation based on current mood, personalized to-do lists, and a platform for sharing stories to create a supportive community. Through innovative features like chatbot counseling and direct sessions with professional psychologists, BuddyBlues ensures accessible mental health support. The app also includes engaging modules for learning baby care essentials and a curated selection of articles to keep parents informed and inspired. With a commitment to inclusivity, BuddyBlues strives to minimize inequalities in accessing valuable resources, fostering a connected and empowered parenting experience for all.
 
-## 👨🏻‍💻 Resources
-Our project repository
+## 🔗 Resources
+Our project repository:
 1. [BuddyBlues App](https://github.com/buddy-blues/Frontend-User)
+
+## 
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&fontFamily=Google+Sans&lineCount=1&line1=flutter%2Cflutter%2C42A5F5%3Bfirebase%2Cfirebase%2CFFCB2B%3Bgoogle+cloud%2Cgoogle+cloud%2Cffffff%3B)
 
 ## 👥 Team Members
 | Name                               | University                                          | GitHub                                                                                                | LinkedIn                                                                                                     |
