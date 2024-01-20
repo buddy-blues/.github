@@ -1,5 +1,5 @@
-<h1 align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&width=1400&lines=Hi+there,+Welcome+to+BuddyBlues+👋🏻" alt="Typing SVG" align="center" /></h1>
-
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&width=1400&lines=Hi+there,+Welcome+to+BuddyBlues+👋🏻" alt="Typing SVG" align="center"><a/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="center" src="https://i.ibb.co/Mgv99V8/banner-buddy-blues.png" alt="buddyblues-cover" border="0" width="100%">
 
 ## 📌 Problem Background
